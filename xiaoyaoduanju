@@ -1,5 +1,5 @@
 {
-  "spider": "https://ncstatic.clewm.net/rsrc/2026/0928/12/948851f9260a431295fd9bd230469087.png;md5;9c8e45f60d3d413d8b140ec21811deb0",
+  "spider":"https://ncstatic.clewm.net/rsrc/2026/0928/12/948851f9260a431295fd9bd230469087.png;md5;9c8e45f60d3d413d8b140ec21811deb0",
   "logo": "",
   "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
